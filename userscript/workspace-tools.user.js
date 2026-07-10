@@ -10,7 +10,8 @@
 //
 // @homepageURL  https://github.com/alertaamazonia-oss/workspace-tools
 // @supportURL   https://github.com/alertaamazonia-oss/workspace-tools/issues
-//
+// @downloadURL  https://raw.githubusercontent.com/alertaamazonia-oss/workspace-tools/main/userscript/workspace-tools.user.js
+// @updateURL    https://raw.githubusercontent.com/alertaamazonia-oss/workspace-tools/main/userscript/workspace-tools.user.js
 // @grant        none
 // ==/UserScript==
 
